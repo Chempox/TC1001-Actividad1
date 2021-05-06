@@ -35,12 +35,37 @@ def square(start, end):
 
 def circle(start, end):
     "Draw circle from start to end."
-    turtle.circle(10)
+    turtle.circle(50)
 def rectangle(start, end):
+    up()
+    goto(start.x, start.y)
+    down()
+    begin_fill()
+
+    forward(100)
+    left(90)
+    forward(50)
+    left(90)
+    forward(100)
+    left(50)
+    forward(50)
+
+    end_fill()
     "Draw rectangle from start to end."
     pass  # TODO
 
 def triangle(start, end):
+    up()
+    goto(start.x, start.y)
+    down()
+    begin_fill()
+
+    for i in range(3):
+        forward(end.x - start.x)
+        left(120)
+
+    end_fill()
+
     "Draw triangle from start to end."
     pass  # TODO
 
