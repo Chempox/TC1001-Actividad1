@@ -35,7 +35,10 @@ def square(start, end):
 
 def circle(start, end):
     "Draw circle from start to end."
+    turtle.color('red', 'cyan')
+    turtle.begin_fill()
     turtle.circle(50)
+    turtle.end_fill()
 def rectangle(start, end):
     up()
     goto(start.x, start.y)
