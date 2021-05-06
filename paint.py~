@@ -1,4 +1,4 @@
-"""Paint, for drawing shapes.
+"""Paint, for drawing shapes.ii
 
 Exercises
 
@@ -35,8 +35,7 @@ def square(start, end):
 
 def circle(start, end):
     "Draw circle from start to end."
-    turtle.circle(80)
-
+    turtle.circle(10)
 def rectangle(start, end):
     "Draw rectangle from start to end."
     pass  # TODO
