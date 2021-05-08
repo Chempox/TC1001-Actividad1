@@ -1,4 +1,5 @@
-Actividad 1:
+Actividad 1: Alan Caspeta - 01424680, Juan Pablo Yañez - 00829598
+
 En la actividad uno, descargamos el juego paint de python freegames, el codigo incluia las funciones para pintar una linea y un cuadrado, 
 tambien habia funciones para pintar un circulo, un rectangulo y un triangulo, pero estas funciones no tenian codigo y nosotros tuvimos que llenar el codigo.
 Al llenar el codigo el juego lograba pintar la figuras donde originalmente no podia por la falta del codigo. Esa parte del codigo se puede encontrar 
