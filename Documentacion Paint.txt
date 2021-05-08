@@ -1,0 +1,5 @@
+Actividad 1:
+En la actividad uno, descargamos el juego paint de python freegames, el codigo incluia las funciones para pintar una linea y un cuadrado, 
+tambien habia funciones para pintar un circulo, un rectangulo y un triangulo, pero estas funciones no tenian codigo y nosotros tuvimos que llenar el codigo.
+Al llenar el codigo el juego lograba pintar la figuras donde originalmente no podia por la falta del codigo. Esa parte del codigo se puede encontrar 
+en donde se llama la creacion de lafuncion con el nombre de la figura a pintar.
